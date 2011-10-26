@@ -1,0 +1,7 @@
+category: X11
+requires: mkfontdir mkfontscale fontconfig font-encodings
+sdesc: "Hebrew TrueType font with cantillation marks"
+ldesc: "Taamey David CLM - based on David CLM. Glyph spacing and line 
+spacing are wider then in the David CLM so as to leave space for all 
+marks. The font family contains Medium, Medium Oblique, Bold and Bold 
+Oblique variants."
